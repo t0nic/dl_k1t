@@ -1,0 +1,11 @@
+C:\Users\bob\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.csprojResolveAssemblyReference.cache
+C:\Users\bob\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\bob\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.exe.config
+C:\Users\bob\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.exe
+C:\Users\bob\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.pdb
+C:\Users\bob\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.exe
+C:\Users\bob\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.pdb
+C:\Users\bob\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.exe.manifest
+C:\Users\bob\source\repos\NetFramework\NetFramework\bin\Debug\NetFramework.application
+C:\Users\bob\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.exe.manifest
+C:\Users\bob\source\repos\NetFramework\NetFramework\obj\Debug\NetFramework.application

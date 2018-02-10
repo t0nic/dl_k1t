@@ -1,0 +1,7 @@
+C:\Users\bob\source\repos\dlk1t\dlk1t\obj\Debug\dlk1t.csproj.CoreCompileInputs.cache
+C:\Users\bob\source\repos\dlk1t\dlk1t\obj\Debug\dlk1t.csprojResolveAssemblyReference.cache
+C:\Users\bob\source\repos\dlk1t\dlk1t\bin\Debug\dl_k1t.exe.config
+C:\Users\bob\source\repos\dlk1t\dlk1t\bin\Debug\dl_k1t.exe
+C:\Users\bob\source\repos\dlk1t\dlk1t\bin\Debug\dl_k1t.pdb
+C:\Users\bob\source\repos\dlk1t\dlk1t\obj\Debug\dl_k1t.exe
+C:\Users\bob\source\repos\dlk1t\dlk1t\obj\Debug\dl_k1t.pdb
